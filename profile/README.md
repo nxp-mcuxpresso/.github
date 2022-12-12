@@ -1,0 +1,1 @@
+MCUXpresso software and tools offer comprehensive development solutions designed to optimize, ease and help accelerate embedded system development of applications based on general purpose and wireless enabled MCUs from NXP. 
